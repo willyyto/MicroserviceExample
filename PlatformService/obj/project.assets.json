@@ -2109,11 +2109,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Willy\\OneDrive\\Desktop\\Projects\\PlatformService\\PlatformService.csproj",
+      "projectUniqueName": "C:\\Users\\Willy\\OneDrive\\Desktop\\MicroserviceExample\\PlatformService\\PlatformService.csproj",
       "projectName": "PlatformService",
-      "projectPath": "C:\\Users\\Willy\\OneDrive\\Desktop\\Projects\\PlatformService\\PlatformService.csproj",
+      "projectPath": "C:\\Users\\Willy\\OneDrive\\Desktop\\MicroserviceExample\\PlatformService\\PlatformService.csproj",
       "packagesPath": "C:\\Users\\Willy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Willy\\OneDrive\\Desktop\\Projects\\PlatformService\\obj\\",
+      "outputPath": "C:\\Users\\Willy\\OneDrive\\Desktop\\MicroserviceExample\\PlatformService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Willy\\AppData\\Roaming\\NuGet\\NuGet.Config",
