@@ -5,17 +5,17 @@ using PlatformService.Dtos;
 using PlatformService.Models;
 using PlatfromService.SyncDataServices.Http;
 
-namespace PlatformService.Controllers
+namespace PlatformsService.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class PlatformController: ControllerBase
+    public class PlatformsController: ControllerBase
     {
         private readonly IPlatformRepo _repository;
         private readonly IMapper _mapper;
         private readonly ICommandDataClient _commandDataClient;
 
-        public PlatformController( 
+        public PlatformsController( 
             IPlatformRepo repository, 
             IMapper mapper, 
             ICommandDataClient commandDataClient)

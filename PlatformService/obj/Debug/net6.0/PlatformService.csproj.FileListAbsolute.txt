@@ -124,3 +124,4 @@ C:\Users\Willy\OneDrive\Desktop\MicroserviceExample\PlatformService\obj\Debug\ne
 C:\Users\Willy\OneDrive\Desktop\MicroserviceExample\PlatformService\obj\Debug\net6.0\scopedcss\bundle\PlatformService.styles.css
 C:\Users\Willy\OneDrive\Desktop\MicroserviceExample\PlatformService\obj\Debug\net6.0\PlatformService.csproj.CopyComplete
 C:\Users\Willy\OneDrive\Desktop\MicroserviceExample\PlatformService\obj\Debug\net6.0\PlatformService.genruntimeconfig.cache
+C:\Users\Willy\OneDrive\Desktop\MicroserviceExample\PlatformService\bin\Debug\net6.0\appsettings.Production.json
